@@ -16,4 +16,4 @@ website:
 
 ---
 
-Luke Fretwell is a team member of CivicActions Accessibility.
+Luke Fretwell is a team member of CivicActions Data Science.
