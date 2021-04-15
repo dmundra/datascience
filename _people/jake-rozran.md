@@ -3,7 +3,7 @@ type: team
 published: 1
 author: jake-rozran
 name: Jake Rozran
-image: jake-rozran.jpg
+image: jake-rozran.png
 categories:
  - 
 linkedin: https://www.linkedin.com/in/jacob-rozran/
