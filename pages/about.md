@@ -1,9 +1,11 @@
 ---
 layout: page
 title: About
-description: What CivicActions Accessibility is and how we work.
+description: What CivicActions Data Science is and how we work.
 permalink: /about
 ---
+
+WIP - Come back to this
 
 CivicActions Accessibility is an open project primarily developed by CivicActions team members. 
 
