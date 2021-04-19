@@ -32,7 +32,7 @@ links: footer
 big_footer_signup_form: false
 
 # Configuration for footer heading. (optional)
-heading: CivicActions Accessibility
+heading: CivicActions Data Science
 
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
@@ -47,7 +47,7 @@ contact:
   # Comment out links you don't want to use (RSS is an example)
   social_links:
     - text: GitHub
-      href: https://github.com/civicactions/accessibility
+      href: https://github.com/civicactions/datascience
       external: true
       type: github
     - text: Facebook
@@ -76,5 +76,5 @@ contact:
   contact_links:
 #     - text: (800) CALL-GOVT
 #       href: tel:1-800-555-5555
-    - text: accessibility@civicactions.com
-      href: mailto:accessibility@civicactions.com
+    - text: datascience@civicactions.com
+      href: mailto:datascience@civicactions.com
