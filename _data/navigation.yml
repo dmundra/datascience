@@ -14,6 +14,8 @@
 primary:
   - text: About
     href: /about
+  # - text: Projects
+  #   href: /projects
   - text: Join us
     href: /join
   - text: Calendar
@@ -22,10 +24,6 @@ primary:
     href: /news
   - text: People
     href: /people
-  - text: Playbook
-    href: /playbook
-  - text: Guide
-    href: /guide
   - text: Contact
     href: /contact
   - text: <i class="fas fa-search"><span class="usa-sr-only">Search</span></i>
