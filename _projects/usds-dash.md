@@ -1,6 +1,6 @@
 ---
 layout: project
-title: US Digital Services Technology Dashbaord
+title: US Digital Services Technology Dashboard
 description: 
 excerpt: 
 sidenav: docs
