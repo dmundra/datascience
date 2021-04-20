@@ -1,7 +1,7 @@
 ---
 layout: page
 title: License
-description: License for CivicActions Accessibility.
+description: License for CivicActions Data Science.
 permalink: /license
 
 ---
