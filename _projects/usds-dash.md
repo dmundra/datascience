@@ -4,7 +4,7 @@ title: US Digital Services Technology Dashboard
 description: 
 excerpt: 
 sidenav: docs
-external-url: pages/digital_services.html
+external-url: pages/projects/digital_services.html
 categories:
   - 
 ---
