@@ -17,7 +17,7 @@ hero:
     href: /link/
   content: CivicActions Data Science is an open project and community for CivicActions team members and the community. We want this resource to be useful to our team, our clients, our partners.
 
-tagline: We're open.
+tagline: We're open!
 intro: |
   CivicActions Data Science is an open, agile project and community. We work iteratively, in public. [Learn more.](open)
 
@@ -31,7 +31,7 @@ graphics:
       src: /assets/img/circles/cpu.png
       alt: "Contribute"
     title: Contribute
-    description: Everyone is welcome. [Learn how you can contribute](join) to CivicActions Accessibility.
+    description: Everyone is welcome. [Learn how you can contribute](join) to CivicActions Data Science.
 ---
 
 ## Get started
