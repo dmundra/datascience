@@ -1,17 +1,8 @@
 docs_list_title: projects
 docs:
 
-- title: USWDS Color Tool
-  url: /uswds-color
+- title: US Digital Services Technology Dashbaord
+  url: /usds-dash
   description: 
   image: card-uswds.png
 
-- title: U.S. Web Design System
-  url: /uswds
-  description: 
-  image: card-uswds.png
-
-- title: Drupal
-  url: /drupal
-  description: 
-  image: card-drupal.png
