@@ -1,7 +1,7 @@
 title: CivicActions Data Science
 description: 
-baseurl: /datascience # the subpath of your site, e.g. /blog
-url: https://civicactions.github.io # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: /datascience # the subpath of your site, e.g. /blog
+# url: https://civicactions.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # GitHub information
 # This is used for adding an edit this page link to the footer
@@ -9,7 +9,7 @@ github_info:
   organization: CivicActions
   repository: datascience
 
-# url: "https://accessibility.civicactions.com" # the base hostname & protocol for your site
+url: "https://datascience.civicactions.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
